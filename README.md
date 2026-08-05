@@ -1,0 +1,5 @@
+This repo contains the data and code used for the study presented in the following paper:
+
+Depression risk associated with idealized sentiment towards urban places on social media
+
+** This paper is currently accepted in principal **
